@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.students .item {
+  font-size: 1px;
+  color: blue;
+  text-align: center;
+}
